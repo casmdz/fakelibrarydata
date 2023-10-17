@@ -1,0 +1,42 @@
+[
+  {
+    "imageSrc": "src/assets/images/book_placeholder.png",
+    "linkUrl": "https://www.goodreads.com/book/show/50698873-modern-full-stack-development",
+    "title": "Modern Full-Stack Development",
+    "author": "Frank Zammetti",
+    "published": "January 1, 2020 by Apress",
+    "format": "395 pages, Paperback",
+    "isbn": "9781484257371 (ISBN10: 1484257375)",
+    "genre": ["Programming", "Nonfiction"]
+  },
+  {
+    "imageSrc": "src/assets/images/book_placeholder.png",
+    "linkUrl": "https://www.goodreads.com/book/show/12345678/fake-book",
+    "title": "The Art of Fiction",
+    "author": "Eleanor Bennett",
+    "published": "March 15, 2018 by Fiction Press",
+    "format": "312 pages, Hardcover",
+    "isbn": "9781234567890 (ISBN10: 1234567890)",
+    "genre": ["Fiction", "Literary"]
+  },
+  {
+    "imageSrc": "src/assets/images/book_placeholder.png",
+    "linkUrl": "https://www.goodreads.com/book/show/98765432/programming-for-beginners",
+    "title": "Programming for Beginners",
+    "author": "Lisa Johnson",
+    "published": "October 5, 2019 by TechBooks Inc.",
+    "format": "220 pages, eBook",
+    "isbn": "9789876543210 (ISBN10: 9876543210)",
+    "genre": ["Programming", "Nonfiction"]
+  },
+  {
+    "imageSrc": "src/assets/images/book_placeholder.png",
+    "linkUrl": "https://www.goodreads.com/book/show/55555555/sci-fi-adventures",
+    "title": "Sci-Fi Adventures",
+    "author": "David Roberts",
+    "published": "June 20, 2021 by Galaxy Publishers",
+    "format": "432 pages, Paperback",
+    "isbn": "9785555555555 (ISBN10: 5555555555)",
+    "genre": ["Science Fiction", "Adventure"]
+  }
+]
